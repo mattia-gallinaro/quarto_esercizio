@@ -1,0 +1,13 @@
+E:\4F\Circonferenza\bin\Debug\netcoreapp3.1\Circonferenza.exe
+E:\4F\Circonferenza\bin\Debug\netcoreapp3.1\Circonferenza.deps.json
+E:\4F\Circonferenza\bin\Debug\netcoreapp3.1\Circonferenza.runtimeconfig.json
+E:\4F\Circonferenza\bin\Debug\netcoreapp3.1\Circonferenza.runtimeconfig.dev.json
+E:\4F\Circonferenza\bin\Debug\netcoreapp3.1\Circonferenza.dll
+E:\4F\Circonferenza\bin\Debug\netcoreapp3.1\Circonferenza.pdb
+E:\4F\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.csproj.AssemblyReference.cache
+E:\4F\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.AssemblyInfoInputs.cache
+E:\4F\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.AssemblyInfo.cs
+E:\4F\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.csproj.CoreCompileInputs.cache
+E:\4F\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.dll
+E:\4F\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.pdb
+E:\4F\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.genruntimeconfig.cache
