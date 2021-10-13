@@ -11,3 +11,17 @@ E:\4F\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.csproj.CoreCompileInpu
 E:\4F\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.dll
 E:\4F\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.pdb
 E:\4F\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.genruntimeconfig.cache
+C:\Users\Utente\Documents\GitHub\quarto_esercizio\Circonferenza\bin\Debug\netcoreapp3.1\Circonferenza.exe
+C:\Users\Utente\Documents\GitHub\quarto_esercizio\Circonferenza\bin\Debug\netcoreapp3.1\Circonferenza.deps.json
+C:\Users\Utente\Documents\GitHub\quarto_esercizio\Circonferenza\bin\Debug\netcoreapp3.1\Circonferenza.runtimeconfig.json
+C:\Users\Utente\Documents\GitHub\quarto_esercizio\Circonferenza\bin\Debug\netcoreapp3.1\Circonferenza.runtimeconfig.dev.json
+C:\Users\Utente\Documents\GitHub\quarto_esercizio\Circonferenza\bin\Debug\netcoreapp3.1\Circonferenza.dll
+C:\Users\Utente\Documents\GitHub\quarto_esercizio\Circonferenza\bin\Debug\netcoreapp3.1\Circonferenza.pdb
+C:\Users\Utente\Documents\GitHub\quarto_esercizio\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.csproj.AssemblyReference.cache
+C:\Users\Utente\Documents\GitHub\quarto_esercizio\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Documents\GitHub\quarto_esercizio\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.AssemblyInfoInputs.cache
+C:\Users\Utente\Documents\GitHub\quarto_esercizio\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.AssemblyInfo.cs
+C:\Users\Utente\Documents\GitHub\quarto_esercizio\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Documents\GitHub\quarto_esercizio\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.dll
+C:\Users\Utente\Documents\GitHub\quarto_esercizio\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.pdb
+C:\Users\Utente\Documents\GitHub\quarto_esercizio\Circonferenza\obj\Debug\netcoreapp3.1\Circonferenza.genruntimeconfig.cache
